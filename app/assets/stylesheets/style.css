@@ -93,7 +93,7 @@ blockquote{padding-left:20px;border-left:2px solid;font-style: italic;}
 .header-left h2 {margin:10px 0 14px 0; padding:0px; font-size:24px; font-weight:700; color:#faf5f5;}
 .header-left p{clear:both;}
 .header-left ul {margin:0 0 0 0; padding:0px; list-style:none;}
-.header-left ul li {background: url('../../../../../Desktop/leadpages-template/img/li-right-bg.png') no-repeat; padding-left:40px;display:inline-block; float:left; width:37%; margin:0px 2% 22px 0;font-size:15px;line-height: 23px;color:#f9f2f2;min-height: 35px;}
+.header-left ul li {background: url('/img/li-right-bg.png') no-repeat; padding-left:40px;display:inline-block; float:left; width:37%; margin:0px 2% 22px 0;font-size:15px;line-height: 23px;color:#f9f2f2;min-height: 35px;}
 .header-left ol {float:left;}
 .header-left a {color:#f9f2f2;text-decoration: underline;}
 
@@ -119,7 +119,9 @@ blockquote{padding-left:20px;border-left:2px solid;font-style: italic;}
 .content-text ul li { display:inline-block; vertical-align: top; margin:0 36px 63px 0; padding:0px; list-style:none; font-size:14px; width:15%;text-align: left;}
 .content-text ul li.last { margin-right:0;}
 .icon-quote { font-family:Georgia, "Times New Roman", Times, serif; font-size:80px; font-style:normal;}
-.content-text ul li .publish-report {margin:0 0 18px; 0; height:194px; display: table; color:#1c7bbd;}
+
+/*.content-text ul li .publish-report {margin:0 0 18px; 0; height:194px; display: table; color:#1c7bbd;}*/
+
 .content-text ul li .publish-report { display: table-cell; vertical-align: middle; font-size:16px; font-family: 'Open Sans'; }
 .content-text ul li .publish-report p.testimonial-text {margin:0px; padding:0px;}
 .content-text ul li .publish-report img {  padding:0 2px 0 0; float:left; margin:-9px 0 0 0;}
